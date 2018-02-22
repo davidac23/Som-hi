@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "857949037026",
+    "firebase_url": "https://somhifirebase.firebaseio.com",
+    "project_id": "somhifirebase",
+    "storage_bucket": "somhifirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857949037026:android:57051451d1416c7f",
+        "android_client_info": {
+          "package_name": "com.example.enriccamarero.somhifirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857949037026-her2j69086k2gm2bnt8tcnbjvljedg3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.enriccamarero.somhifirebase",
+            "certificate_hash": "afb0cda1df16f21ec497a93e356fb7e25189470b"
+          }
+        },
+        {
+          "client_id": "857949037026-qiev4lg8sn5fmn65icftjcgmb8d80v0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYK6NnvDbj-7TKAIxbocg1FK8ldNEL0Nk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857949037026-qiev4lg8sn5fmn65icftjcgmb8d80v0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">857949037026-qiev4lg8sn5fmn65icftjcgmb8d80v0u.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://somhifirebase.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">857949037026</string>
+    <string name="google_api_key" translatable="false">AIzaSyAYK6NnvDbj-7TKAIxbocg1FK8ldNEL0Nk</string>
+    <string name="google_app_id" translatable="false">1:857949037026:android:57051451d1416c7f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAYK6NnvDbj-7TKAIxbocg1FK8ldNEL0Nk</string>
+    <string name="google_storage_bucket" translatable="false">somhifirebase.appspot.com</string>
+    <string name="project_id" translatable="false">somhifirebase</string>
+</resources>
